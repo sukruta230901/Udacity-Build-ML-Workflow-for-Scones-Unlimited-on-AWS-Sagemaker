@@ -1,5 +1,5 @@
 # Udacity-Build-ML-Workflow-for-Scones-Unlimited-on-AWS-Sagemaker
-**ML Workflow** is the notebook for this project.
+**[ML Workflow](https://github.com/sukruta230901/Udacity-Build-ML-Workflow-for-Scones-Unlimited-on-AWS-Sagemaker/blob/main/ML-workflow-notebook.ipynb)** is the notebook for this project.
 
 This project is based on **CIFAR 100 dataset** to classify motorcycles and bicycles. This has 4 stages.
 
